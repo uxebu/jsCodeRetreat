@@ -143,6 +143,10 @@ a.register:hover {
   background-color: #A30;
 }
 
+tr.odd > td  {
+  background-color: #DFD;
+}
+
 @media print, screen and (max-width: 960px) {
   
   div.wrapper {
