@@ -132,6 +132,17 @@ footer {
   bottom:50px;
 }
 
+a.register {
+  padding: 0.5em 2em;
+  background-color: #f50;
+  color: #FFF;
+  font-size: large;
+  font-weight: bold;
+}
+a.register:hover {
+  background-color: #A30;
+}
+
 @media print, screen and (max-width: 960px) {
   
   div.wrapper {
