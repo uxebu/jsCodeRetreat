@@ -15,7 +15,7 @@
   </head>
   <body>
     <div class="wrapper">
-      <header>
+      <header style="position: static">
         <h1>
           <img class="flag flag-de" src="../flag/blank.gif" alt="Germany">
           Munich, Germany</h1>
@@ -37,9 +37,19 @@
           <a href="http://lanyrd.com/2014/jscr/" target="_blank" class="register">Register now</a>
         </p>
 
-        <h1>Attendees</h1>
         <p>
-          See <a href="http://lanyrd.com/2014/jscr/attendees/" target="_blank">all attendees on lanyrd</a>.
+          <!-- Add this where you want the output to appear -->
+          <div class="lanyrd-target-participants">
+              <a href="http://lanyrd.com/2014/jscr/attendees/"
+                  class="lanyrd-participants"
+                  data-lanyrd-labels
+                  data-lanyrd-limit="10">
+                  provided by Lanyrd
+              </a>
+          </div>
+
+          <!-- Add this to the end of body -->
+          <script src="//cdn.lanyrd.net/badges/embed-v1.min.js"></script>
         </p>
       </header>
 
@@ -89,9 +99,6 @@
           </a>
         </p>
       </section>
-      <footer>
-        <p><a href="../">Back home</a></p>
-      </footer>
     </div>
     <script src="../javascripts/scale.fix.js"></script>
   </body>
