@@ -82,8 +82,23 @@
           <span class="octicon octicon-link"></span></a>When?
         </h3>
         <p>
-          February 8th 2014, Saturday<br>
-          10 AM - 6 PM
+          <span style="font-size: larger; font-weight: bold; color: #F50">
+            February 8th 2014, Saturday<br>
+            8:30 AM - 6 PM<br>
+          </span>
+            <span id="timeLeft">
+              <span id="daysLeft"></span> days left
+            </span>
+            <script type="text/javascript">
+              var eventTime = new Date(2014, 1, 8, 8, 30);
+              var now = new Date();
+              var diff = eventTime - now;
+              var daysLeft = Math.floor(diff / 1000 / 60 / 60 / 24);
+              document.getElementById('daysLeft').innerHTML = daysLeft;
+              if (daysLeft < 1) {
+                document.getElementById('timeLeft').style.display = 'none';
+              }
+            </script>
 
           <br><br>
           We will synchronize each timezone, so we can take advantage of the experiences
