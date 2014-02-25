@@ -198,3 +198,27 @@ tr.odd > td  {
     color:#444;
   }
 }
+
+
+#goto-current-event {
+  position: fixed;
+  top: 70px;
+  right: -105px;
+  background-color: white;
+  color: black;
+  font-size: larger;
+  text-align: center;
+
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+#goto-current-event a {
+  background-color: #f50;
+  color: white;
+  padding: 2px 4em;
+  font-weight: bold;
+}
