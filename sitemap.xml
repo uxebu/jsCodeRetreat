@@ -3,25 +3,21 @@
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
-<url>
-  <loc>http://www.jscoderetreat.com/</loc>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://jscoderetreat.com/city/de-munich.html</loc>
-  <changefreq>daily</changefreq>
-</url>
-
-<url>
-  <loc>http://jscoderetreat.com/kata.html</loc>
-  <changefreq>weekly</changefreq>
-</url>
-<url>
-  <loc>http://jscoderetreat.com/schedule.html</loc>
-  <changefreq>monthly</changefreq>
-</url>
-
-
+      http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>http://www.jscoderetreat.com/</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://jscoderetreat.com/2/city/de-munich.html</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://jscoderetreat.com/kata.html</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>http://jscoderetreat.com/schedule.html</loc>
+    <changefreq>monthly</changefreq>
+  </url>
 </urlset>
