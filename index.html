@@ -14,12 +14,12 @@
   </head>
   <body>
 
-    <ul style="list-style: none; position: fixed; top: 0; right: 0; background-color: white; padding: 1em;">
-      <li style="display: inline-block; margin-right: 2em;"><a href="#">Home</a></li>
-      <li style="display: inline-block; margin-right: 2em;"><a href="#info">Info</a></li>
-      <li style="display: inline-block; margin-right: 2em;"><a href="upcoming/">Upcoming Event</a></li>
-      <li style="display: inline-block; margin-right: 2em;"><a href="past/">Past Events</a></li>
-      <li style="display: inline-block; margin-right: 2em;"><a href="#sponsors">Sponsors</a></li>
+    <ul id="menu">
+      <li><a href="#">Home</a></li>
+      <li><a href="#info">Info</a></li>
+      <li><a href="upcoming/">Upcoming Event</a></li>
+      <li><a href="past/">Past Events</a></li>
+      <li><a href="#sponsors">Sponsors</a></li>
     </ul>
 
     <div style="text-align: center; margin-top: 5%;"><img src="2/img/logo.png" width="100"></div>
@@ -30,8 +30,8 @@
 
 
     <a name="info" type="anchor"></a>
-    <div style="display: flex; flex-flow: row; margin-top: 10%;">
-      <div style="-webkit-order: 1; width: 33%; text-align: center">
+    <div id="boxes">
+      <div style="-webkit-order: 1;">
         <h2>Info</h2>
         <a href="http://coderetreat.org">Coderetreat is ...</a> [coderetreat.org]<br>
         <a href="http://uxebu.com/blog/2014/01/14/how-to-organize-an-event-day-by-day-our-js-coderetreat/">What’s a CodeRetreat?</a> [uxebu]<br>
@@ -43,7 +43,7 @@
           <img src="img/munich-pics.png" width="80%">
         </a>
       </div>
-      <div style="-webkit-order: 2; width: 33%; text-align: center;">
+      <div style="-webkit-order: 2;">
         <h2>Past Events</h2>
         <h3><a href="1/">#1</a></h3>
 
@@ -62,7 +62,7 @@
         </div>
 
       </div>
-      <div style="-webkit-order: 3; width: 33%; text-align: center">
+      <div style="-webkit-order: 3;">
         <h2>Share</h2>
 
         <div style="width: 60%; margin-left: 20%">
