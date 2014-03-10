@@ -77,9 +77,15 @@ a {
   #menu {
     white-space: nowrap;
     left: 0;
+    padding: 0;
   }
   #menu > li {
-    margin-right: 0.5em;
+    margin-right: 0.1em;
+    text-align: center;
+    width: 18%;
+  }
+  #menu > li:nth-child(odd) a {
+    color: black;
   }
 
   #boxes {
