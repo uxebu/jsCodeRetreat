@@ -70,6 +70,11 @@ a {
   text-align: center
 }
 
+#boxes #shareBox {
+  width: 60%;
+  margin-left: 20%
+}
+
 @media print, screen and (max-width: 960px) {
   h1 {
     font-size: 38px;
@@ -94,6 +99,15 @@ a {
   #boxes > div {
     width: 100%;
     margin-top: 2em;
+  }
+  #boxes #infoBox {
+    white-space: nowrap;
+  }
+  #boxes #infoBox .links {
+    text-align: left;
+  }
+  #boxes #shareBox {
+    margin-left: 10%
   }
   #boxes > div > h2 {
     border: 0 dotted grey;
