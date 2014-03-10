@@ -74,13 +74,24 @@ a {
   h1 {
     font-size: 38px;
   }
+  #menu {
+    white-space: nowrap;
+    left: 0;
+  }
   #menu > li {
     margin-right: 0.5em;
   }
+
   #boxes {
-    flex-flow: column;
+    display: block;
   }
   #boxes > div {
     width: 100%;
+    margin-top: 2em;
+  }
+  #boxes > div > h2 {
+    border: 0 dotted grey;
+    border-top-width: 1px;
+    padding-top: 1em;
   }
 }
