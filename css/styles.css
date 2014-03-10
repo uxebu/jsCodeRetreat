@@ -69,3 +69,18 @@ a {
   width: 33%;
   text-align: center
 }
+
+@media print, screen and (max-width: 960px) {
+  h1 {
+    font-size: 38px;
+  }
+  #menu > li {
+    margin-right: 0.5em;
+  }
+  #boxes {
+    flex-flow: column;
+  }
+  #boxes > div {
+    width: 100%;
+  }
+}
