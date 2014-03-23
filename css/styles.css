@@ -1,0 +1,128 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
+
+body {
+  padding: 50px;
+  font: 14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #777;
+  font-weight: 300;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #222;
+  margin: 0 0 20px;
+}
+
+#homepage h1,
+#homepage h2,
+#homepage h3,
+#homepage h4,
+#homepage h5,
+#homepage h6 {
+  text-align: center;
+}
+
+p, ul, ol, table, pre, dl {
+  margin: 0 0 20px;
+}
+
+h1, h2, h3 {
+  line-height: 1.1;
+}
+
+h1 {
+  font-size: 58px;
+}
+
+#homepage h1 {
+  margin-top: 5%;
+}
+
+h2 {
+  color: #393939;
+}
+
+h3, h4, h5, h6 {
+  color: #494949;
+}
+
+a {
+  color: #05F;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+#menu {
+  list-style: none;
+  position: fixed;
+  top: 0;
+  right: 0;
+  background-color: white;
+  padding: 1em;
+}
+
+#menu > li {
+  display: inline-block;
+  margin-right: 2em;
+}
+
+#boxes {
+  display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+  display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+  display: -ms-flexbox;     /* TWEENER - IE 10 */
+  display: -webkit-flex;     /* NEW - Chrome */
+  display: flex;                /* NEW, Spec - Opera 12.1, Firefox 20+ */
+
+  flex-flow: row;
+  margin-top: 10%;
+}
+
+#boxes > div {
+  width: 33%;
+  text-align: center
+}
+
+#boxes #shareBox {
+  width: 60%;
+  margin-left: 20%
+}
+
+@media print, screen and (max-width: 960px) {
+  h1 {
+    font-size: 38px;
+  }
+  #menu {
+    white-space: nowrap;
+    left: 0;
+    padding: 0;
+  }
+  #menu > li {
+    margin-right: 0.1em;
+    text-align: center;
+    width: 18%;
+  }
+  #menu > li:nth-child(odd) a {
+    color: black;
+  }
+
+  #boxes {
+    display: block;
+  }
+  #boxes > div {
+    width: 100%;
+    margin-top: 2em;
+  }
+  #boxes #infoBox {
+    white-space: nowrap;
+  }
+  #boxes #infoBox .links {
+    text-align: left;
+  }
+  #boxes #shareBox {
+    margin-left: 10%
+  }
+  #boxes > div > h2 {
+    border: 0 dotted grey;
+    border-top-width: 1px;
+    padding-top: 1em;
+  }
+}
