@@ -51,6 +51,10 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+  text-decoration: underline;
+}
+
 #menu {
   list-style: none;
   position: fixed;
