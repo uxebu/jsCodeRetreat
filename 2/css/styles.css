@@ -198,3 +198,8 @@ tr.odd > td  {
     color:#444;
   }
 }
+
+tr.global {
+  color: black;
+  font-weight: bold;
+}
