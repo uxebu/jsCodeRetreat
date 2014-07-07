@@ -1,0 +1,194 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>JavaScript Code Retreat #3 </title>
+
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="../flag/flags.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+
+    <div class="wrapper">
+      <a href=""><h1>JavaScript Code Retreat #3</h1></a>
+      <a href="../">
+        <img src="img/logo.png" style="float:right; background-color: #525252;">
+      </a>
+      <p>
+        A Coderetreat is <b>a day-long</b>, intensive practice event, focusing on the fundamentals of software development and design.
+        Developers can disconnect from constraints like time and feature pressure - <b>just focus on the craft, programming</b>. And train
+        to become better. You don't have to ship anything. Just practice.
+        <br>
+        You will be guided through the day by a moderator/facilitator. At the beginning of the day all details will be explained.
+        <br>
+        If you have never done it before? Just come and have fun doing your craft. <a href="about.html">Read more ...</a>
+      </p>
+
+      <header style="position: static">
+        What's special?
+        <ul>
+          <li>Many locations synchronized</li>
+          <li><a href="kata.html">One Kata</a> for all</li>
+          <li><a href="schedule.html">5 sessions</a> x 45 minutes</li>
+          <li>Shared Constraints</li>
+          <li>Shared retrospectives</li>
+          <li><a href="../1">How was #1?</a></li>
+          <li><a href="../2">How was #2?</a></li>
+        </ul>
+
+        Join
+        <ul>
+          <li><a href="city/new.html">&nbsp;+ &nbsp; Add your city</a></li>
+          <li><a href="city/de-munich.html">
+            <img class="flag flag-de" src="flag/blank.gif" alt="Germany">
+            Munich (Germany)</a>
+          </li>
+        </ul>
+
+        <a class="twitter-timeline" href="https://twitter.com/search?q=jscoderetreat" data-widget-id="423768946177626112">Tweets about "jscoderetreat"</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+      </header>
+
+      <section>
+        <h3>
+          <a name="what" class="anchor" href="#what">
+          <span class="octicon octicon-link"></span></a>JavaScript Only?
+        </h3>
+        <p>
+          The JavaScript Code Retreat is a more focused <a href="http://coderetreat.org">code retreat</a>.
+          We try to focus even more on the craftsmanship, even more on one language in order to dive even deeper
+          and find out more about how to become better.
+        </p>
+
+        <h3>
+          <a name="how" class="anchor" href="#how">
+          <span class="octicon octicon-link"></span></a>How?
+        </h3>
+        <p>
+          Pair programming is at its core. Sitting in a room with many people so you can switch
+          pairs makes it even more fun. 5 x 45 minutes and one quick retrospective after each allows
+          everyone to share and learn from each other.
+          Yes, one full day of programming just for fun. Throw away the code - keep the learnings!
+        </p>
+
+        <h3>
+          <a name="when" class="anchor" href="#when">
+          <span class="octicon octicon-link"></span></a>When?
+        </h3>
+        <p>
+          <span style="font-size: larger; font-weight: bold; color: #fff106">
+            May 10th 2014, Saturday<br>
+            9:30 AM - 6 PM<br>
+          </span>
+            <span id="timeLeft">
+              <span id="daysLeft"></span> days left
+            </span>
+            <script type="text/javascript">
+              var eventTime = new Date(2014, 4, 10, 9, 30);
+              var now = new Date();
+              var diff = eventTime - now;
+              var daysLeft = Math.floor(diff / 1000 / 60 / 60 / 24);
+              document.getElementById('daysLeft').innerHTML = daysLeft;
+              if (daysLeft < 1) {
+                document.getElementById('timeLeft').style.display = 'none';
+              }
+            </script>
+
+          <br><br>
+          We will synchronize each timezone, so we can take advantage of the experiences
+          across all the locations.
+        </p>
+
+        <h3>
+          <a name="where" class="anchor" href="#where">
+          <span class="octicon octicon-link"></span></a>Where?
+        </h3>
+        <p>
+          Worldwide, in the best case :).<br>
+          See the locations on the left if a city near you is listed. If not - host one or maybe ping
+          a local (JavaScript) user group to ask for <a href="city/new.html">hosting it</a>.<br>
+          Actually it was kicked off by
+          <a href="../1/city/ir-dublin.html">Dublin (Ireland)</a>,
+          <a href="city/de-munich.html">Munich (Germany)</a>,
+          <a href="../1/city/es-valencia.html">Valencia (Spain)</a> and
+          <a href="../1/city/es-madrid.html">Madrid (Spain)</a>.
+          But we are happy to welcome anyone in the round and will be happy to share experiences
+          around the globe.<br>
+          If you want to <a href="city/new.html">join our list of cities</a> then just
+          follow the instructions there and you get your city listed on jscoderetreat.com too.
+        </p>
+
+        <h3>
+          <a name="whattobring" class="anchor" href="#whattobring">
+          <span class="octicon octicon-link"></span></a>What to bring?
+        </h3>
+        <p>
+          <ul>
+            <li>Your own laptop, with a ready-to-use test environment</li>
+            <li>Drinks and lunch will be provided</li>
+          </ul>
+        </p>
+
+        <h3>
+          <a name="support" class="anchor" href="#support">
+          <span class="octicon octicon-link"></span></a>Support? Help?
+        </h3>
+        <p>
+          Just contact us via <a href="http://twitter.com/jsCodeRetreat">twitter</a>, the shortest way probably.
+          Or open an <a href="https://github.com/uxebu/jsCodeRetreat/issues">issue on github</a>.
+        </p>
+
+      </section>
+      <footer style="position: static">
+        <p class="view">
+          Host, Fork, Participate <a href="https://github.com/uxebu/jsCodeRetreat/tree/gh-pages"> via GitHub</a><br>
+        </p>
+        <p><small>
+          Hosted on GitHub Pages<br>
+          Theme: <a href="https://github.com/orderedlist">orderedlist</a><br>
+          Flags: <a href="http://flag-sprites.com/">flag-sprites.com</a>
+        </small></p>
+      </footer>
+    </div>
+    <script src="js/scale.fix.js"></script>
+
+
+<!-- AddThis Smart Layers BEGIN -->
+ <!-- Go to http://www.addthis.com/get/smart-layers to customize -->
+ <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-52cfe0b44208542b"></script>
+ <script type="text/javascript">
+   addthis.layers({
+     'theme' : 'transparent',
+     'share' : {
+       'position' : 'left',
+       'numPreferredServices' : 5
+     },
+     'follow' : {
+       'services' : [
+         {'service': 'twitter', 'id': 'jsCodeRetreat'}
+       ]
+     },
+     'whatsnext' : {},
+     'recommended' : {}
+   });
+  var addthis_share = {templates: {twitter: '{{title}} - a day-long focus on improving programming skills {{url}}'}};
+ </script>
+ <!-- AddThis Smart Layers END -->
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-47088667-1', 'jscoderetreat.com');
+      ga('send', 'pageview');
+    </script>
+
+  </body>
+</html>
