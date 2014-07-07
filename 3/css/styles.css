@@ -96,6 +96,12 @@ header {
   z-index: 1; /* make the header be on top of the footer, in case the site is not high enough */
 }
 
+  header .callToAction {
+    border: 1px solid #ebce09;
+    padding: 1em;
+    margin-bottom: 1em;
+  }
+
 strong {
   color:#222;
   font-weight:700;
