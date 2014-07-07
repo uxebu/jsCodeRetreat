@@ -9,8 +9,9 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #ebce09;
+  color: #d0b708;
   margin: 0 0 20px;
+  font-weight: normal;
 }
 
 #homepage h1,
@@ -39,7 +40,7 @@ h1 {
 }
 
 a {
-  color: #ebce09;
+  color: #ffe03b;
   font-weight: 400;
   text-decoration: none;
 }
