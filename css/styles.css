@@ -3,12 +3,13 @@
 body {
   padding: 50px;
   font: 14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #777;
+  color: #a19758;
   font-weight: 300;
+  background-color: #525252;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #222;
+  color: #ebce09;
   margin: 0 0 20px;
 }
 
@@ -37,16 +38,8 @@ h1 {
   margin-top: 5%;
 }
 
-h2 {
-  color: #393939;
-}
-
-h3, h4, h5, h6 {
-  color: #494949;
-}
-
 a {
-  color: #05F;
+  color: #ebce09;
   font-weight: 400;
   text-decoration: none;
 }
@@ -60,8 +53,8 @@ a:hover {
   position: fixed;
   top: 0;
   right: 0;
-  background-color: white;
   padding: 1em;
+  background-color: #525252;
 }
 
 #menu > li {
