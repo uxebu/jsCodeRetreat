@@ -45,6 +45,13 @@ a {
   text-decoration: none;
 }
 
+h2 a {
+  text-decoration: underline;
+}
+  h2 a:hover {
+    color: #D4CFAE;
+  }
+
 a:hover {
   text-decoration: underline;
 }
