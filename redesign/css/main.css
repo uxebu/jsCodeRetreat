@@ -24,9 +24,7 @@ body{
 }
 
 .btn-yellow:hover{
-    border-bottom: 0;
-    position: relative;
-    top: 3px;
+  color: #666;
 }
 
 .btn-black{
@@ -49,6 +47,7 @@ body{
 /* ---------- Navbar ---------- */
 
 .navbar {
+  background: url('../img/back.png') repeat;
   background-color: transparent;
   border: 0;
 }
