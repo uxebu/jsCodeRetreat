@@ -144,6 +144,66 @@ body{
     margin-top: 20px;
 }
 
+/* ---------- Footer ---------- */
+
+footer {
+  background-color: #2d2e2c;
+  color: #999;
+
+  font-size: smaller;
+  padding: 6em 1em 20em 1em;
+}
+
+footer h2 {
+  font-family: monospace;
+  font-size: large;
+  color: white;
+  margin-bottom: 2em;
+}
+
+footer a {
+  display: block;
+  color: #999;
+  text-decoration: none;
+  margin-bottom: 1em;
+}
+footer a:hover {
+  color: #999;
+  text-decoration: underline;
+}
+
+footer .jscr p {
+  margin-top: 3em;
+}
+
+footer .contact a {
+  background-repeat: no-repeat;
+  padding-left: 3em;
+}
+footer .contact a.email {
+  background-image: url(../img/icon%20mail.png);
+}
+footer .contact a.facebook {
+  background-image: url(../img/icon%20facebook.png);
+}
+footer .contact a.flickr {
+  background-image: url(../img/icon%20flickr.png);
+}
+footer .contact a.twitter {
+  background-image: url(../img/icon%20twitter.png);
+}
+footer .contact a.meetup {
+  background-image: url(../img/icon%20meetup.png);
+}
+
+
+
+
+
+
+
+
+
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
