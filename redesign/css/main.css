@@ -76,18 +76,19 @@ body{
 /* ---------- Hero ---------- */
 
 #hero{
-    background: url('../img/back.png') repeat;
-    text-align: center;
+  background: url('../img/back.png') repeat;
+  text-align: center;
 }
 
 #hero .title{
-    padding: 40px 0;
+  padding: 40px 0;
 }
 
-#hero h1{
-    color: #FFF;
-    font-size: 28px;
-    font-weight: 300;
+#hero h1 {
+  color: #FFF;
+  font-size: 24px;
+  font-weight: 300;
+  font-family: monospace;
 }
 
 #hero h1 span{
@@ -173,12 +174,8 @@ body{
         padding: 140px 0 40px 0;
     }
 
-    #hero h1{
-        font-size: 50px;
-    }
-
-    #hero h2{
-        font-size: 24px;
+    #hero h1 {
+      font-size: 46px;
     }
 
     /* ---------- Section ---------- */
