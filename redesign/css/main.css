@@ -1,0 +1,196 @@
+/* ==========================================================================
+   Custom styles by Marco Santonocito
+   ========================================================================== */
+
+/* Extra small devices (phones, less than 768px) */
+/* No media query since this is the default in Bootstrap */
+
+/* ---------- General ---------- */
+
+body{
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    margin-top: 50px;
+}
+
+
+/* ---------- Buttons ---------- */
+
+.btn-yellow{
+    background-color: #F7DB00;
+    border-bottom: 3px solid #8F7F00;
+    color: #000;
+    font-family: "Courier New", Courier, monospace;
+    font-weight: bold;
+    padding: 10px 20px;
+}
+
+.btn-yellow:hover{
+    border-bottom: 0px;
+    position: relative;
+    top: 3px;
+}
+
+.btn-black{
+    background-color: #4A4A4A;
+    border-bottom: 3px solid #000000;
+    color: #FFF;
+    font-family: "Courier New", Courier, monospace;
+    padding: 10px 20px;
+}
+
+.btn-black:hover{
+    border-bottom: 0px;
+    color: #FFF;
+    position: relative;
+    top: 3px;
+}
+
+
+
+/* ---------- Navbar ---------- */
+
+.navbar-brand img{
+    height: 26px;
+}
+
+/* ---------- Hero ---------- */
+
+#hero{
+    background: url('../img/back.png') repeat;
+    text-align: center;
+}
+
+#hero .title{
+    padding: 40px 0;
+}
+
+#hero h1{
+    color: #FFF;
+    font-size: 28px;
+    font-weight: 300;
+}
+
+#hero h1 span{
+    color: #F7DB00;
+}
+
+#hero h2{
+    color: rgba(255,255,255,.4);
+    font-size: 20px;
+    font-weight: 300;
+}
+
+#hero a.btn{
+    margin: 20px 0 40px 0;
+}
+
+/* ---------- Section ---------- */
+
+.section-gray{
+    background-color: #FCFCFC;
+}
+
+.section h3{
+    color: #F7DB00;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.section p{
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24px;
+    max-width: 360px;
+}
+
+.call-to-action{
+    padding: 60px 0;
+}
+
+.call-to-action .buttons{
+    margin-top: 20px;
+}
+
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    /* ---------- General ---------- */
+
+    /* ---------- Buttons ---------- */
+
+    .btn-yellow, .btn-black{
+        padding: 15px 40px;
+        font-size: 16px;
+    }
+
+    /* ---------- Navbar ---------- */
+
+    .navbar{
+        height: 80px;
+    }
+
+    .navbar-brand img{
+        height: 50px;
+    }
+
+    .navbar-nav>li>a{
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .navbar .nav{
+        float: right !important;
+    }
+
+    /* ---------- Hero ---------- */
+
+    #hero{
+        background: url('../img/back.png') repeat;
+        text-align: center;
+    }
+
+    #hero .title{
+        padding: 140px 0 40px 0;
+    }
+
+    #hero h1{
+        font-size: 50px;
+    }
+
+    #hero h2{
+        font-size: 24px;
+    }
+
+    #hero a.btn{
+        margin: 20px 0 40px 0;
+    }
+
+    /* ---------- Section ---------- */
+
+    .section{
+        padding: 100px 0;
+    }
+
+    .section h3{
+        color: #F7DB00;
+        font-size: 24px;
+    }
+
+    .section p{
+        font-size: 16px;
+        font-weight: 300;
+        line-height: 24px;
+        max-width: 360px;
+    }
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+}
