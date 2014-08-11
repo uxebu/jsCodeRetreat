@@ -151,7 +151,7 @@ footer {
   color: #999;
 
   font-size: smaller;
-  padding: 6em 1em 20em 1em;
+  padding: 6em 1em 2em 1em;
 }
 
 footer h2 {
@@ -196,6 +196,12 @@ footer .contact a.meetup {
   background-image: url(../img/icon%20meetup.png);
 }
 
+footer .imprint {
+  margin-top: 3em;
+}
+footer .imprint a {
+  display: inline;
+}
 
 
 
