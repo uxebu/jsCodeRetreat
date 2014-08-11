@@ -51,6 +51,10 @@ body{
   background-color: transparent;
   border: 0;
 }
+.navbar.scrolled {
+  background: none;
+  background-color: black;
+}
 
 .navbar-brand img{
     height: 26px;

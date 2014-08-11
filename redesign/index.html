@@ -127,6 +127,18 @@
       <script src="js/plugins.js"></script>
       <script src="js/main.js"></script>
 
+      <script type="application/javascript">
+        var $window = $(window);
+        var $navi = $('.navbar');
+        $window.scroll(function() {
+          if ($window.scrollTop() > 0) {
+            $navi.addClass('scrolled');
+          } else {
+            $navi.removeClass('scrolled');
+          }
+        });
+      </script>
+
       <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
       <script>
           (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
