@@ -9,7 +9,6 @@
 
 body{
     font-family: 'Helvetica Neue', Arial, sans-serif;
-    margin-top: 50px;
 }
 
 
@@ -25,7 +24,7 @@ body{
 }
 
 .btn-yellow:hover{
-    border-bottom: 0px;
+    border-bottom: 0;
     position: relative;
     top: 3px;
 }
@@ -39,7 +38,7 @@ body{
 }
 
 .btn-black:hover{
-    border-bottom: 0px;
+    border-bottom: 0;
     color: #FFF;
     position: relative;
     top: 3px;
@@ -49,8 +48,19 @@ body{
 
 /* ---------- Navbar ---------- */
 
+.navbar {
+  background-color: transparent;
+  border: 0;
+}
+
 .navbar-brand img{
     height: 26px;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover,
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:hover {
+  background-color: rgba(0,0,0,0.2);
 }
 
 /* ---------- Hero ---------- */
@@ -127,7 +137,6 @@ body{
     /* ---------- Navbar ---------- */
 
     .navbar{
-        height: 80px;
     }
 
     .navbar-brand img{
