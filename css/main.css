@@ -74,12 +74,13 @@ h2 {
     height: 26px;
 }
 
-.navbar-inverse .navbar-nav>li>a:hover,
-#homepage li.homepage a,
 #howitworks li.howitworks a,
-.navbar-inverse .navbar-nav>.active>a:hover {
-  background-color: rgba(0,0,0,0.2);
+.navbar-nav a:hover {
+  background-color: rgba(200, 200, 200,0.2);
   color: white;
+}
+#homepage li.homepage a {
+  background-color: rgba(0, 0, 0,0.2);
 }
 
 .navbar .by {
