@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/uxebu/jsCodeRetreat/issues"
   },
-  "homepage": "https://github.com/uxebu/jsCodeRetreat"
+  "homepage": "https://github.com/uxebu/jsCodeRetreat",
+  "dependencies": {
+    "swig": "^1.3.2"
+  }
 }

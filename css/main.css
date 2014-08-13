@@ -11,6 +11,14 @@ body{
     font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
+h1 {
+  color: #FFF;
+  font-size: 24px;
+  font-weight: 300;
+  font-family: monospace;
+}
+
+
 
 /* ---------- Buttons ---------- */
 
@@ -44,11 +52,13 @@ body{
 /* ---------- Navbar ---------- */
 
 .navbar {
-  background: url('../img/back.png') repeat;
-  background-color: transparent;
+  background-color: black;
   border: 0;
 }
-.navbar.scrolled {
+#homepage .navbar {
+  background-color: transparent;
+}
+#homepage .navbar.scrolled {
   background: none;
   background-color: black;
 }
@@ -83,13 +93,6 @@ body{
 
 #hero .title{
   padding: 40px 0;
-}
-
-#hero h1 {
-  color: #FFF;
-  font-size: 24px;
-  font-weight: 300;
-  font-family: monospace;
 }
 
 #hero h1 span{
@@ -215,6 +218,10 @@ footer .imprint a {
 @media (min-width: 768px) {
     /* ---------- General ---------- */
 
+    h1 {
+      font-size: 46px;
+    }
+
     /* ---------- Buttons ---------- */
 
     .btn-yellow, .btn-black{
@@ -249,10 +256,6 @@ footer .imprint a {
 
     #hero .title{
         padding: 140px 0 40px 0;
-    }
-
-    #hero h1 {
-      font-size: 46px;
     }
 
     /* ---------- Section ---------- */
