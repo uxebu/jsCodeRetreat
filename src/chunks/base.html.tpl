@@ -15,6 +15,7 @@
 
       <link rel="stylesheet" href="css/bootstrap.min.css">
       <link rel="stylesheet" href="css/main.css">
+      {% block cssInclude %}{% endblock cssInclude %}
 
       <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
     </head>

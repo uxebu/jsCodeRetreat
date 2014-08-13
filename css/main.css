@@ -18,6 +18,13 @@ h1 {
   font-family: monospace;
 }
 
+h2 {
+  font-size: 16px;
+  font-weight: bold;
+  font-family: monospace;
+}
+
+
 
 
 /* ---------- Buttons ---------- */
@@ -101,8 +108,6 @@ h1 {
 
 #hero h2{
     color: rgba(255,255,255,.4);
-    font-size: 20px;
-    font-weight: 300;
 }
 
 #hero a.btn{
