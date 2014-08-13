@@ -21,8 +21,8 @@
       </div>
       <div class="navbar-collapse collapse">
         <ul class="nav navbar-nav">
-          <li class="active"><a href="index.html">Homepage</a></li>
-          <li><a href="#whatisit">What is it?</a></li>
+          <li class="homepage"><a href="index.html">Homepage</a></li>
+          <li class="howitworks"><a href="howitworks.html">How does it work?</a></li>
           <li><a href="upcoming/">Next event</a></li>
           <li><a href="jscr-sponsoring.pdf">Sponsoring (pdf)</a></li>
           <!--<li><a href="contact.html">Contact</a></li>-->

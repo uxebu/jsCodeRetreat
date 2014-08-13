@@ -75,9 +75,11 @@ h2 {
 }
 
 .navbar-inverse .navbar-nav>li>a:hover,
-.navbar-inverse .navbar-nav>.active>a,
+#homepage li.homepage a,
+#howitworks li.howitworks a,
 .navbar-inverse .navbar-nav>.active>a:hover {
   background-color: rgba(0,0,0,0.2);
+  color: white;
 }
 
 .navbar .by {
