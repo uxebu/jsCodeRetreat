@@ -81,7 +81,9 @@ h3 {
     height: 26px;
 }
 
+#homepage li.homepage a,
 #howitworks li.howitworks a,
+#contact li.contact a,
 .navbar-nav a:hover {
   background-color: rgba(200, 200, 200,0.2);
   color: white;
