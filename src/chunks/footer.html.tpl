@@ -1,7 +1,7 @@
 {% spaceless %}
   <footer class="container-fluid">
     <div class="row">
-      <section class="jscr col-md-offset-3 col-md-2">
+      <section class="jscr col-md-offset-1 col-md-2">
         <img src="img/logo-footer.png">
         <p>
           A CodeRetreat is a day-long, intensive practice event,
@@ -30,25 +30,16 @@
         <a href="upcoming/" class="meetup">Signup in your city</a>
         <a href="https://www.flickr.com/photos/119361579@N03/sets/" class="twitter">Photos on flickr</a>
       </section>
-    </div>
 
-    <div class="imprint row">
-      <section class="col-md-offset-3 col-md-3">
-        Brought to you by uxebu with <img src="img/icon%20heart.png" />
-      </section>
-
-      <section class="col-md-2">
-        Imprint:<br /><br />
+      <section class="col-md-offset-1 col-md-2">
+        <h2>Imprint</h2>
         <b>uxebu GmbH</b><br>
         Founded in 2008<p></p>
         <p>Fraunhofer Str. 31e<br>
         86167 Augsburg<br>
         Germany</p>
-      </section>
-      <section class="col-md-2">
+
         <p><b>Phone:</b> +49 821 600 806 270<br>
-        <b>Fax:</b> +49 821 600 806 279<br>
-        <b>E-Mail:</b> <a href="mailto:contact@uxebu.com" title="email uxebu" target="_blank">contact@uxebu.com</a></p>
         <p><b>Registrar of Companies:</b> Augsburg<br>
         <b>Registrar number:</b> HRB 28613</p>
         <p><b>Board of Directors:</b>&nbsp;Tobias von Klipstein<br>
@@ -57,7 +48,11 @@
     </div>
 
     <div class="imprint row">
-      <section class="col-md-offset-3 col-md-5">
+      <section class="col-md-offset-1 col-md-3">
+        Brought to you by uxebu with <img src="img/icon%20heart.png" />
+      </section>
+
+      <section class="col-md-offset-2 col-md-5">
         Copyright &copy; 2014, uxebu. Designed by <a href="http://marcosantonocito.com">Marco Santonocito</a>.
       </section>
     </div>
