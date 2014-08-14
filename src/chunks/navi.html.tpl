@@ -25,7 +25,7 @@
           <li class="howitworks"><a href="howitworks.html">How does it work?</a></li>
           <li><a href="upcoming/">Next event</a></li>
           <li><a href="jscr-sponsoring.pdf">Sponsoring (pdf)</a></li>
-          <!--<li><a href="contact.html">Contact</a></li>-->
+          <li class="contact"><a href="contact.html">Contact</a></li>
         </ul>
       </div><!--/.navbar-collapse -->
     </div>

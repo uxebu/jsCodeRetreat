@@ -19,7 +19,7 @@
         <a href="http://uxebu.com">Uxebu Blog</a>
         <!--<a href="">What's a CodeRetreat</a>-->
         <a href="upcoming/">Upcoming Events</a>
-        <a href="#whatisit">What is it?</a>
+        <a href="index.html#whatisit">What is it?</a>
       </section>
 
       <section class="contact col-md-2">
