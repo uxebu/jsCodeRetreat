@@ -24,6 +24,13 @@ h2 {
   font-family: monospace;
 }
 
+h3 {
+  color: #F7DB00;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 24px;
+  font-weight: bold;
+}
+
 
 
 
@@ -94,6 +101,22 @@ h2 {
   top: -2px;
 }
 
+/* ---------- Sponsors ---------- */
+
+.sponsors {
+  background-color: white;
+  border-bottom: 1px solid lightgrey;
+}
+.sponsors .container {
+  padding: 2em;
+}
+.sponsors a {
+  margin-left: 3em;
+}
+.sponsors p {
+  margin-top: 1em;
+}
+
 /* ---------- Hero ---------- */
 
 #hero{
@@ -131,13 +154,6 @@ h2 {
 
 .section-gray{
     background-color: #FCFCFC;
-}
-
-.section h3{
-    color: #F7DB00;
-    font-family: "Courier New", Courier, monospace;
-    font-size: 24px;
-    font-weight: bold;
 }
 
 .section p{
@@ -224,11 +240,16 @@ footer .imprint a {
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
-    /* ---------- General ---------- */
+  /* ---------- General ---------- */
 
-    h1 {
-      font-size: 46px;
-    }
+  h1 {
+    font-size: 46px;
+  }
+  h3{
+    color: #F7DB00;
+    font-size: 24px;
+  }
+
 
     /* ---------- Buttons ---------- */
 
@@ -270,11 +291,6 @@ footer .imprint a {
 
     .section{
         padding: 100px 0;
-    }
-
-    .section h3{
-        color: #F7DB00;
-        font-size: 24px;
     }
 
     .section p{

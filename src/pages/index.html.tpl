@@ -25,6 +25,32 @@
     </div>
   </div>
 
+  <div class="sponsors">
+    <div class="container">
+      <div class="col-md-2">
+        <p>Supported by</p>
+      </div>
+
+      <div class="col-md-10">
+        <a href="http://www.uxebu.com">
+          <img src="img/sponsors/uxebu-logo.jpg" height="30" />
+        </a>
+        <a href="http://www.jetbrains.com/webstorm/">
+          <img src="img/sponsors/webstorm_logo142x29.gif" height="30" />
+        </a>
+        <a href="http://www.thoughtworks.com/locations/berlin">
+          <img src="img/sponsors/thoughtworks-logo.png" height="25" />
+        </a>
+        <a href="http://www.werk1muenchen.de">
+          <img src="img/sponsors/werk1_logo.png" height="30" />
+        </a>
+        <a href="http://www.klosebrothers.de">
+          <img src="img/sponsors/klose-brothers.png" height="50" />
+        </a>
+      </div>
+    </div>
+  </div>
+
   <a name="whatisit"></a>
   <div class="section">
     <div class="container">
