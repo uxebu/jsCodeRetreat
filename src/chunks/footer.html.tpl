@@ -1,7 +1,7 @@
 {% spaceless %}
   <footer class="container-fluid">
     <div class="row">
-      <section class="jscr col-md-offset-1 col-md-2">
+      <section class="jscr col-md-offset-2 col-md-2">
         <img src="img/logo-footer.png">
         <p>
           A CodeRetreat is a day-long, intensive practice event,
@@ -14,7 +14,7 @@
         </p>
       </section>
 
-      <section class="col-md-offset-1 col-md-2">
+      <section class="col-md-2">
         <h2>JS CodeRetreat</h2>
         <a href="http://uxebu.com">Uxebu Blog</a>
         <!--<a href="">What's a CodeRetreat</a>-->
@@ -31,7 +31,7 @@
         <a href="https://www.flickr.com/photos/119361579@N03/sets/" class="twitter">Photos on flickr</a>
       </section>
 
-      <section class="col-md-offset-1 col-md-2">
+      <section class="col-md-2">
         <h2>Imprint</h2>
         <b>uxebu GmbH</b><br>
         Founded in 2008<p></p>
@@ -48,11 +48,8 @@
     </div>
 
     <div class="imprint row">
-      <section class="col-md-offset-1 col-md-3">
-        Brought to you by uxebu with <img src="img/icon%20heart.png" />
-      </section>
-
-      <section class="col-md-offset-2 col-md-5">
+      <section class="col-md-12">
+        Brought to you by <a href="http://uxebu.com">uxebu</a> with <img src="img/icon%20heart.png" />
         Copyright &copy; 2014, uxebu. Designed by <a href="http://marcosantonocito.com">Marco Santonocito</a>.
       </section>
     </div>

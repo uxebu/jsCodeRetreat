@@ -225,6 +225,7 @@ footer .contact a.meetup {
 
 footer .imprint {
   margin-top: 3em;
+  text-align: center;
 }
 footer .imprint a {
   display: inline;
