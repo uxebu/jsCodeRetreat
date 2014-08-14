@@ -33,7 +33,7 @@
 
       <div class="col-md-10">
         <a href="http://www.uxebu.com">
-          <img src="img/sponsors/uxebu-logo.jpg" height="30" />
+          <img src="img/sponsors/uxebu-logo.jpg" height="40" />
         </a>
         <a href="http://www.jetbrains.com/webstorm/">
           <img src="img/sponsors/webstorm_logo142x29.gif" height="30" />
