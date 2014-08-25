@@ -40,7 +40,7 @@
           <img src="img/sponsors/webstorm_logo142x29.gif" height="30" />
         </a>
         <a href="http://www.thoughtworks.com/locations/berlin">
-          <img src="img/sponsors/thoughtworks-logo.png" height="25" />
+          <img src="img/sponsors/thoughtworks-logo.png" height="55" />
         </a>
         <a href="http://www.werk1muenchen.de">
           <img src="img/sponsors/werk1_logo.png" height="30" />
