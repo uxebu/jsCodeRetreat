@@ -134,8 +134,9 @@ h3 {
     color: #F7DB00;
 }
 
-#hero h2{
-    color: rgba(255,255,255,.4);
+#hero h2,
+#hero h2 a {
+  color: rgba(255,255,255,.4);
 }
 
 #hero a.btn{
