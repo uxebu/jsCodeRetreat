@@ -28,25 +28,32 @@
 
   <div class="sponsors">
     <div class="container">
-      <div class="col-md-2">
-        <p>Supported by</p>
-      </div>
-
-      <div class="col-md-10">
-        <a href="http://www.uxebu.com">
+      <div class="col-md-12" style="text-align: center;">
+        <a href="http://www.uxebu.com" target="_blank">
           <img src="img/sponsors/uxebu-logo.jpg" height="40" />
         </a>
-        <a href="http://www.jetbrains.com/webstorm/">
-          <img src="img/sponsors/webstorm_logo142x29.gif" height="30" />
-        </a>
-        <a href="http://www.thoughtworks.com/locations/berlin">
+        <a href="http://www.thoughtworks.com/locations/berlin" target="_blank">
           <img src="img/sponsors/thoughtworks-logo1.png" height="55" />
         </a>
-        <a href="http://www.werk1muenchen.de">
+        <a href="http://www.werk1muenchen.de" target="_blank">
           <img src="img/sponsors/werk1_logo.png" height="30" />
         </a>
-        <a href="http://www.klosebrothers.de">
+        <a href="http://www.klosebrothers.de" target="_blank">
           <img src="img/sponsors/klose-brothers.png" height="50" />
+        </a>
+        <br/><br/>
+
+        <a href="http://www.ebay.de" target="_blank">
+          <img src="img/sponsors/ebay_tm_rgb.jpg" height="30" />
+        </a>
+        <a href="http://www.jetbrains.com/webstorm/" target="_blank">
+          <img src="img/sponsors/webstorm_logo142x29.gif" height="30" />
+        </a>
+        <a href="http://www.mayflower.de" target="_blank">
+          <img src="img/sponsors/mayflower-logo.png" height="20" />
+        </a>
+        <a href="http://www.hackandcraft.com" target="_blank">
+          <img src="img/sponsors/hackandcraft-logo.png" height="20" />
         </a>
       </div>
     </div>
