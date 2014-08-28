@@ -18,7 +18,7 @@
   <div class="intro container">
     <div class="row">
       <div class="col-md-offset-2 col-md-8">
-        <p>
+        <p class="intro">
           Pair programming is at its core. Sitting in a room with many people so you can switch pairs makes it even more fun.
           You’ll deal with the same Kata for the whole day. The event will consist of 5 sessions, 45 minutes each,
           and a quick retrospective after every session. This will allow everyone to share and learn from each other.
