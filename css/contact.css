@@ -23,10 +23,10 @@
   margin-bottom: 1em;
 }
 .contact.container .location {
-  /*background-image: url(../img/???);*/
+  background-image: url(../img/icon_pin_blk.png);
 }
 .contact.container a.email {
-  background-image: url(../img/icon%20mail.png);
+  background-image: url(../img/icon_mail_blk.png);
 }
 .contact.container a.facebook {
   background-image: url(../img/icon_fb_blk.png);
@@ -41,5 +41,5 @@
   background-image: url(../img/icon_meetup_blk.png);
 }
 .contact.container .whatisit {
-  /*background-image: url(../img/???);*/
+  background-image: url(../img/icon_meetup_blk.png);
 }
