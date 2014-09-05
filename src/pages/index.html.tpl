@@ -41,6 +41,9 @@
         <a href="http://www.klosebrothers.de" target="_blank">
           <img src="img/sponsors/klose-brothers.png" height="50" />
         </a>
+        <a href="http://www.klab-berlin.com" target="_blank">
+          <img src="img/sponsors/klab-logo.png" height="40" />
+        </a>
         <br/><br/>
 
         <a href="http://www.ebay.de" target="_blank">
