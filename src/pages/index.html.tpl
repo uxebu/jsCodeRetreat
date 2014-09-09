@@ -8,10 +8,10 @@
           <div class="title">
             <h1><span>JavaScript</span> CodeRetreat</h1>
             <h2>Practice. Share. Global.</h2>
-            <a href="upcoming/" class="btn btn-yellow">
-              #3, global, 6th September
-            </a>
-            <h2><a href="http://www.meetup.com/JavaScript-CodeRetreat/events/193697002/">Signup for Munich</a></h2>
+            <!--<a href="upcoming/" class="btn btn-yellow">-->
+              <!--#4, global, TBD-->
+            <!--</a>-->
+            <!--<h2><a href="http://www.meetup.com/JavaScript-CodeRetreat/events/193697002/">Signup for Munich</a></h2>-->
 
             <h1 style="margin-top: 2em;">Special Event</h1>
             <a href="http://www.meetup.com/JavaScript-CodeRetreat/events/188846942/" class="btn btn-yellow">
