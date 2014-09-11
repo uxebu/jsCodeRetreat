@@ -58,6 +58,9 @@
         <a href="http://www.klab-berlin.com" target="_blank">
           <img src="img/sponsors/klab-logo.png" height="40" />
         </a>
+        <a href="http://audibene.de" target="_blank">
+          <img src="img/sponsors/audibenelogo_300dpi.jpg" height="40" />
+        </a>
       </div>
     </div>
   </div>
