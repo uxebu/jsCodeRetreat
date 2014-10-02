@@ -85,6 +85,7 @@ h3 {
 
 #homepage li.homepage a,
 #howitworks li.howitworks a,
+#events li.events a,
 #contact li.contact a,
 .navbar-nav a:hover {
   background-color: rgba(200, 200, 200,0.2);
