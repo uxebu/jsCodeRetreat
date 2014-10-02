@@ -8,15 +8,17 @@
           <div class="title">
             <h1><span>JavaScript</span> CodeRetreat</h1>
             <h2>Practice. Share. Global.</h2>
-            <!--<a href="upcoming/" class="btn btn-yellow">-->
-              <!--#4, global, TBD-->
-            <!--</a>-->
-            <!--<h2><a href="http://www.meetup.com/JavaScript-CodeRetreat/events/193697002/">Signup for Munich</a></h2>-->
-
-            <h1 style="margin-top: 2em;">Special Event</h1>
-            <a href="http://www.meetup.com/JavaScript-CodeRetreat/events/188846942/" class="btn btn-yellow">
-              pre-<img src="img/jsconf.png" style="position:relative; top:-4px;">Conf, Berlin, 12th September
+            <a href="upcoming/" class="btn btn-yellow">
+              next event: #4, where: global
             </a>
+            <h2>
+              <a href="http://www.meetup.com/JavaScript-CodeRetreat/events/209200652/" target="_blank">Signup for Munich <img style="opacity: .5" class="flag flag-de" src="flag/blank.gif" alt="Germany"></a>
+            </h2>
+
+            <!--<h1 style="margin-top: 2em;">Special Event</h1>-->
+            <!--<a href="http://www.meetup.com/JavaScript-CodeRetreat/events/188846942/" class="btn btn-yellow">-->
+              <!--pre-<img src="img/jsconf.png" style="position:relative; top:-4px;">Conf, Berlin, 12th September-->
+            <!--</a>-->
           </div>
           <div class="code hidden-xs">
             <img src="img/code.png" alt="">
@@ -32,35 +34,35 @@
         <a href="http://www.uxebu.com" target="_blank">
           <img src="img/sponsors/uxebu-logo.jpg" height="40" />
         </a>
-        <a href="http://www.thoughtworks.com/locations/berlin" target="_blank">
-          <img src="img/sponsors/thoughtworks-logo1.png" height="55" />
-        </a>
-        <a href="http://www.werk1muenchen.de" target="_blank">
-          <img src="img/sponsors/werk1_logo.png" height="30" />
-        </a>
-        <a href="http://www.klosebrothers.de" target="_blank">
-          <img src="img/sponsors/klose-brothers.png" height="50" />
-        </a>
-        <a href="http://www.cultivatehq.com" target="_blank">
-          <img src="img/sponsors/cultivate_pink.png" height="30" />
-        </a>
+        <!--<a href="http://www.thoughtworks.com/locations/berlin" target="_blank">-->
+          <!--<img src="img/sponsors/thoughtworks-logo1.png" height="55" />-->
+        <!--</a>-->
+        <!--<a href="http://www.werk1muenchen.de" target="_blank">-->
+          <!--<img src="img/sponsors/werk1_logo.png" height="30" />-->
+        <!--</a>-->
+        <!--<a href="http://www.klosebrothers.de" target="_blank">-->
+          <!--<img src="img/sponsors/klose-brothers.png" height="50" />-->
+        <!--</a>-->
+        <!--<a href="http://www.cultivatehq.com" target="_blank">-->
+          <!--<img src="img/sponsors/cultivate_pink.png" height="30" />-->
+        <!--</a>-->
         <br/><br/>
 
-        <a href="http://www.ebay.de" target="_blank">
-          <img src="img/sponsors/ebay_tm_rgb.jpg" height="30" />
-        </a>
-        <a href="http://www.jetbrains.com/webstorm/" target="_blank">
-          <img src="img/sponsors/webstorm_logo142x29.gif" height="30" />
-        </a>
-        <a href="http://www.mayflower.de" target="_blank">
-          <img src="img/sponsors/mayflower-logo.png" height="20" />
-        </a>
-        <a href="http://www.klab-berlin.com" target="_blank">
-          <img src="img/sponsors/klab-logo.png" height="40" />
-        </a>
-        <a href="http://audibene.de" target="_blank">
-          <img src="img/sponsors/audibenelogo_300dpi.jpg" height="40" />
-        </a>
+        <!--<a href="http://www.ebay.de" target="_blank">-->
+          <!--<img src="img/sponsors/ebay_tm_rgb.jpg" height="30" />-->
+        <!--</a>-->
+        <!--<a href="http://www.jetbrains.com/webstorm/" target="_blank">-->
+          <!--<img src="img/sponsors/webstorm_logo142x29.gif" height="30" />-->
+        <!--</a>-->
+        <!--<a href="http://www.mayflower.de" target="_blank">-->
+          <!--<img src="img/sponsors/mayflower-logo.png" height="20" />-->
+        <!--</a>-->
+        <!--<a href="http://www.klab-berlin.com" target="_blank">-->
+          <!--<img src="img/sponsors/klab-logo.png" height="40" />-->
+        <!--</a>-->
+        <!--<a href="http://audibene.de" target="_blank">-->
+          <!--<img src="img/sponsors/audibenelogo_300dpi.jpg" height="40" />-->
+        <!--</a>-->
       </div>
     </div>
   </div>

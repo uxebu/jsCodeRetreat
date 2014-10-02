@@ -1,0 +1,12 @@
+.header {
+  background-image: url(../img/events-header.png);
+  width: 100%;
+  height: 400px;
+  padding-top: 180px;
+  text-align: center;
+}
+
+#events .header a {
+  color: #000000;
+  text-decoration: underline;
+}

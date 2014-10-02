@@ -23,7 +23,7 @@
         <ul class="nav navbar-nav">
           <li class="homepage"><a href="index.html">Homepage</a></li>
           <li class="howitworks"><a href="howitworks.html">How does it work?</a></li>
-          <li><a href="upcoming/">Next event</a></li>
+          <li><a href="events.html">Events</a></li>
           <li><a href="jscr-sponsoring.pdf">Sponsoring (pdf)</a></li>
           <li class="contact"><a href="contact.html">Contact</a></li>
         </ul>
