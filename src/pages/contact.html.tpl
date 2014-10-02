@@ -17,7 +17,9 @@
 
   <div class="contact container">
     <div class="row">
-      <div class="col-md-offset-4 col-md-2">
+      <div class="col-md-offset-2 col-md-5">
+
+        <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=4.350585937499999%2C45.62940492064501%2C17.42431640625%2C50.96534632163772&amp;layer=hot&amp;marker=48.36354888898689%2C10.887451171875" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=48.364&amp;mlon=10.887#map=7/48.367/10.887&amp;layers=H">Größere Karte anzeigen</a></small>
 
       </div>
       <div class="contact col-md-3">
@@ -25,7 +27,7 @@
           <br/>
           <div class="location">
             Fraunhofer Str. 31e<br/>
-            86167 Augsburg<br/>
+            86167 Augsburg (near Munich)<br/>
             Germany<br/>
           </div>
           <a href="mailto:contact@uxebu.com" class="email">contact@uxebu.com</a>
