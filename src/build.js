@@ -5,7 +5,8 @@ var path = require('path');
 [
   'index',
   'howitworks',
-  'contact'
+  'contact',
+  'events'
 ].forEach(function(fileName) {
   var destFileName = path.join(__dirname, '..', fileName + '.html');
   var swigFileName = path.join(__dirname, 'pages', fileName + '.html.tpl');
