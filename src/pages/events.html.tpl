@@ -12,7 +12,7 @@
           <h1>Next event: 6th December 2014</h1>
           <h2>
             Munich,
-            <a href="https://github.com/uxebu/jsCodeRetreat/tree/gh-pages#javascript-code-retreat">&lt;add you city&gt;</a>
+            <a href="https://github.com/uxebu/jsCodeRetreat/tree/gh-pages#javascript-code-retreat">&lt;add your city&gt;</a>
           </h2>
 
           <br/>
