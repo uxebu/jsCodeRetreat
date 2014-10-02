@@ -15,7 +15,10 @@
             <a href="https://github.com/uxebu/jsCodeRetreat/tree/gh-pages#javascript-code-retreat">&lt;add you city&gt;</a>
           </h2>
 
-          <a href="" class="btn btn-yellow">Join now</a>
+          <br/>
+          <br/>
+
+          <a href="http://www.meetup.com/JavaScript-CodeRetreat/events/209200652/" target="_blank" class="btn black">Join the Munich event</a>
 
         </div>
       </div>
