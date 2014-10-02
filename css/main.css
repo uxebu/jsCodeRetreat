@@ -36,29 +36,31 @@ h3 {
 
 /* ---------- Buttons ---------- */
 
-.btn-yellow {
-    background-color: #F7DB00;
-    border: 0;
-    border-bottom: 3px solid #8F7F00;
-    color: #000;
-    font-family: "Courier New", Courier, monospace;
-    font-weight: bold;
-    padding: 10px 20px;
+.btn {
+  border: 0;
+  border-bottom: 3px solid #8F7F00;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  padding: 10px 20px;
 }
 
-.btn-black{
-    background-color: #4A4A4A;
-    border-bottom: 3px solid #000000;
-    color: #FFF;
-    font-family: "Courier New", Courier, monospace;
-    padding: 10px 20px;
+.btn.yellow {
+  background-color: #F7DB00;
+  color: #000;
+  border-bottom-color: #8F7F00;
 }
 
-.btn-black:hover{
-    border-bottom: 0;
-    color: #FFF;
-    position: relative;
-    top: 3px;
+.btn.black{
+  background-color: #4A4A4A;
+  border-bottom-color: #000000;
+  color: #FFF;
+}
+
+.btn.black:hover{
+  border-bottom: 0;
+  color: #FFF;
+  position: relative;
+  top: 3px;
 }
 
 
@@ -143,7 +145,7 @@ h3 {
     margin: 30px 0 0 0;
 }
 
-#hero a.btn-yellow:hover {
+#hero a.btn.yellow:hover {
   margin-top: 32px;
   border-bottom: 1px solid #8F7F00;
 }
@@ -257,7 +259,7 @@ footer .imprint a {
 
     /* ---------- Buttons ---------- */
 
-    .btn-yellow, .btn-black{
+    .btn.yellow, .btn.black{
         padding: 15px 40px;
         font-size: 16px;
     }

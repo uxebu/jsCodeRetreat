@@ -8,7 +8,7 @@
           <div class="title">
             <h1><span>JavaScript</span> CodeRetreat</h1>
             <h2>Practice. Share. Global.</h2>
-            <a href="upcoming/" class="btn btn-yellow">
+            <a href="upcoming/" class="btn yellow">
               next event: #4, where: global
             </a>
             <h2>
@@ -16,7 +16,7 @@
             </h2>
 
             <!--<h1 style="margin-top: 2em;">Special Event</h1>-->
-            <!--<a href="http://www.meetup.com/JavaScript-CodeRetreat/events/188846942/" class="btn btn-yellow">-->
+            <!--<a href="http://www.meetup.com/JavaScript-CodeRetreat/events/188846942/" class="btn yellow">-->
               <!--pre-<img src="img/jsconf.png" style="position:relative; top:-4px;">Conf, Berlin, 12th September-->
             <!--</a>-->
           </div>
@@ -131,7 +131,7 @@
       </div>
       <div class="row buttons">
         <!--<div class="col-md-3 col-md-offset-3">-->
-          <a href="upcoming/" class="btn btn-yellow">Upcoming JSCR</a>
+          <a href="upcoming/" class="btn yellow">Upcoming JSCR</a>
         <!--</div>-->
         <!--<div class="col-md-3">-->
           <!--<a href="events.html" class="btn btn-black">Upcoming Events</a>-->
