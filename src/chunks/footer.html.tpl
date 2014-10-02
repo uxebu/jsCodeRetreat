@@ -20,6 +20,7 @@
         <!--<a href="">What's a CodeRetreat</a>-->
         <a href="upcoming/">Upcoming Events</a>
         <a href="index.html#whatisit">What is it?</a>
+        <a href="https://github.com/uxebu/jsCodeRetreat/tree/gh-pages" target="_blank">Fork it on github</a>
       </section>
 
       <section class="contact col-md-2">
