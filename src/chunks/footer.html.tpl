@@ -16,7 +16,7 @@
 
       <section class="col-md-2">
         <h2>JS CodeRetreat</h2>
-        <a href="http://uxebu.com">Uxebu Blog</a>
+        <a href="http://uxebu.com/blog">Uxebu Blog</a>
         <!--<a href="">What's a CodeRetreat</a>-->
         <a href="upcoming/">Upcoming Events</a>
         <a href="index.html#whatisit">What is it?</a>
