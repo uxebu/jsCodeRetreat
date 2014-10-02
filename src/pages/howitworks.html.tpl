@@ -15,7 +15,7 @@
     </div>
   </div>
 
-  <div class="intro container">
+  <div class="intro container content">
     <div class="row">
       <div class="col-md-offset-2 col-md-8">
         <p class="intro">
