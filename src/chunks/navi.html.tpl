@@ -26,7 +26,7 @@
           <li class="events"><a href="events.html">Events</a></li>
           <li><a href="sponsoring.html" target="_blank">Sponsoring</a></li>
           <li class="contact"><a href="contact.html">Contact</a></li>
-          <li><a href="http://github.com/uxebu/jsCodeRetreat">Source</a></li>
+          <li><a href="https://github.com/uxebu/jsCodeRetreat/tree/gh-pages">Source</a></li>
         </ul>
       </div><!--/.navbar-collapse -->
     </div>
