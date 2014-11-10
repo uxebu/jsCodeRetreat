@@ -27,7 +27,7 @@ To be able to edit and generate the site locally, do the following:
 - edit/add a file in `jsCodeRetreat/src`
 - compile the HTML using `npm run build`
   which runs the build command specified inside the package.json (executing `src/build.js`)
-Now you should be able to go to (http://your-localhost/jsCodeRetreat/index.html)[http://your-localhost/jsCodeRetreat/index.html]
+Now you should be able to go to [http://your-localhost/jsCodeRetreat/index.html](http://your-localhost/jsCodeRetreat/index.html)
 
 Add a new site
 ==============
@@ -43,5 +43,5 @@ Why not jekyll?
 ===============
 
 I feel more comfortable with a pure JS stack, and [swig](http://paularmstrong.github.io/swig/) is a nice and simple templating language, that
-allows me to well-structure a site (see the [http://paularmstrong.github.io/swig/docs/#inheritance](extends) tag).
+allows me to well-structure a site (see the [extends](http://paularmstrong.github.io/swig/docs/#inheritance) tag).
 Setting up the ruby stuff caused some headaches already, I am all about less headaches :).
