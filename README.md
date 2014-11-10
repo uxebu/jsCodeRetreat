@@ -27,6 +27,7 @@ To be able to edit and generate the site locally, do the following:
 - edit/add a file in `jsCodeRetreat/src`
 - compile the HTML using `npm run build`
   which runs the build command specified inside the package.json (executing `src/build.js`)
+
 Now you should be able to go to [http://your-localhost/jsCodeRetreat/index.html](http://your-localhost/jsCodeRetreat/index.html)
 
 Add a new site
@@ -37,6 +38,7 @@ If you want to add a new page, like `http://jscoderetreat.com/newSite.html` do t
 - use swig style content, see the other files in the `pages` directory for help
 - add `newSite` to the array inside `build.js` (TODO should be made to pick it up automagically)
 - run `npm run build`
+
 And the new site should be rendered and visible.
 
 Why not jekyll?
