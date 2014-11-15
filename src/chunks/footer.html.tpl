@@ -36,11 +36,11 @@
         <h2>Imprint</h2>
         <b>uxebu GmbH</b><br>
         Founded in 2008<p></p>
-        <p>Fraunhofer Str. 31e<br>
+        <a href="https://www.google.com/maps/place/Fraunhoferstra%C3%9Fe+31,+86167+Augsburg,+Germany/@48.3806682,10.9104909,15z/data=!4m2!3m1!1s0x479e97e01a1a1055:0xe3a615cbce8e2a5f?sa=X&ei=eYtnVP6hD8KsyQTf54CIBg&ved=0CB8Q8gEwAA">Fraunhofer Str. 31e<br>
         86167 Augsburg<br>
-        Germany</p>
+        Germany</a>
 
-        <p><b>Phone:</b> +49 821 600 806 270<br>
+        <p><b>Phone:</b><a href="tel:+49821600806270">+49 821 600 806 270</a><br>
         <p><b>Registrar of Companies:</b> Augsburg<br>
         <b>Registrar number:</b> HRB 28613</p>
         <p><b>Board of Directors:</b>&nbsp;Tobias von Klipstein<br>
