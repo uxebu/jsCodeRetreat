@@ -237,13 +237,16 @@ footer .imprint a {
   display: inline;
 }
 
+/* ---------- Media Queries  ---------- */
 
+/* Extra small devices */
+@media (max-width: 767px) {
 
-
-
-
-
-
+  /* ---------- Navbar---------- */
+  [role='navigation'] .navbar-collapse {
+    background-color: #000;
+  }
+}
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
