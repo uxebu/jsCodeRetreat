@@ -75,6 +75,19 @@
     </div>
   </div>
 
+  <div class="section">
+    <div class="container">
+      <div class="col-md-offset-2 col-md-8"> 
+        <blockquote>
+          <p>As a past attendee, this event has had a profound impact on my experience as a developer.</p>
+          <footer>Francis</footer>
+        </blockquote>
+      </div>
+    </div>
+  </div>
+
+
+
   <a name="whatisit"></a>
   <div class="section">
     <div class="container">
