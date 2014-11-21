@@ -12,6 +12,9 @@
           attendees take actively part in the coding experience:
           act a lot, listen very little.
         </p>
+
+        <h2>Others wrote</h2>
+        <a href="http://www.francismakes.com/2014/03/27/munich-javascript-code-retreat.html">Francis, May 2014</a>
       </section>
 
       <section class="col-md-2">
