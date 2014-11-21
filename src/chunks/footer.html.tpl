@@ -14,7 +14,8 @@
         </p>
 
         <h2>Others wrote</h2>
-        <a href="http://www.francismakes.com/2014/03/27/munich-javascript-code-retreat.html">Francis, May 2014</a>
+        <a href="http://sideshowcoder.com/post/76235686038/jscoderetreat">Phil, January 2014</a>
+        <a href="http://www.francismakes.com/2014/03/27/munich-javascript-code-retreat.html">Francis, May 2014</a><br/>
       </section>
 
       <section class="col-md-2">
