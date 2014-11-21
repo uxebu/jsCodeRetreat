@@ -9,7 +9,7 @@
             <h1><span>JavaScript</span> CodeRetreat</h1>
             <h2>Practice. Share. Global.</h2>
             <a href="events.html" class="btn yellow">
-              next event: #4, where: global
+              4th edition, 6th Dec 2014, global
             </a>
             <!--<h2>-->
               <!--<a href="http://www.meetup.com/JavaScript-CodeRetreat/events/209200652/" target="_blank">Join Munich Event <img style="opacity: .5" class="flag flag-de" src="flag/blank.gif" alt="Germany"/> (via meetup.com)</a>-->
@@ -38,6 +38,9 @@
         </a>
         <a href="http://www.kochan.de" target="_blank">
           <img src="img/sponsors/kochan-partner.jpg" />
+        </a>
+        <a href="http://www.westwing.de" target="_blank">
+          <img src="img/sponsors/westwing.jpg" height="40" />
         </a>
         <!--<a href="http://www.thoughtworks.com/locations/berlin" target="_blank">-->
           <!--<img src="img/sponsors/thoughtworks-logo1.png" height="55" />-->
