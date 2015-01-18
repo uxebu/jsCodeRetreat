@@ -9,7 +9,7 @@
     <div class="row">
       <div class="col-md-12">
         <div class="title">
-          <h1>Next event: 6th December 2014</h1>
+          <h1>Next event: 7th March 2015</h1>
           <h2>
             Munich,
             <a href="https://github.com/uxebu/jsCodeRetreat/tree/gh-pages#javascript-code-retreat">&lt;add your city&gt;</a>
@@ -18,7 +18,7 @@
           <br/>
           <br/>
 
-          <a href="http://www.meetup.com/JavaScript-CodeRetreat/events/209200652/" target="_blank" class="btn black">Join the Munich event</a>
+          <a href="http://www.meetup.com/JavaScript-CodeRetreat/events/218817407/" target="_blank" class="btn black">Join the Munich event</a>
 
         </div>
       </div>

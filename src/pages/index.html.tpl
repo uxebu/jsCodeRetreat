@@ -9,7 +9,7 @@
             <h1><span>JavaScript</span> CodeRetreat</h1>
             <h2>Practice. Share. Global.</h2>
             <a href="events.html" class="btn yellow">
-              4th edition, 6th Dec 2014, global
+              5th edition, 7th March 2015, global
             </a>
             <!--<h2>-->
               <!--<a href="http://www.meetup.com/JavaScript-CodeRetreat/events/209200652/" target="_blank">Join Munich Event <img style="opacity: .5" class="flag flag-de" src="flag/blank.gif" alt="Germany"/> (via meetup.com)</a>-->
