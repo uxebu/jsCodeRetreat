@@ -6,6 +6,24 @@
   text-align: center;
 }
 
+.intro {
+  padding: 2em 0;
+}
+
+.content p {
+  padding: 1em 0;
+}
+.content * {
+  font-size: 16px;
+}
+
+.intro p.intro {
+  font-family: Georgia;
+  font-style: italic;
+  font-weight: bold;
+}
+
+
 #events .header h1 {
   font-weight: bold;
   color: black;
