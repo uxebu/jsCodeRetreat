@@ -31,6 +31,16 @@ h3 {
   font-weight: bold;
 }
 
+.notification-bubble {
+  position: absolute;
+  top: 1.8em;
+  right: 5px;
+  padding: 0 0.3em;
+  background-color: red;
+  color: white;
+  font-size: 0.7em;
+  border-radius: 5px;
+}
 
 
 
