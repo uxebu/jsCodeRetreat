@@ -12,9 +12,9 @@
     <div class="row">
       <div class="col-md-12">
         <div class="title">
-          <h1>Next event: 7th March 2015</h1>
+          <h1>5th edition - 7th March 2015</h1>
           <h2>
-            Munich, Barcelona, 
+            in Munich, Barcelona, 
             <a href="https://github.com/uxebu/jsCodeRetreat/tree/gh-pages#javascript-code-retreat">&lt;add your city&gt;</a>
           </h2>
 
@@ -25,6 +25,19 @@
           &nbsp;
           <a href="http://www.meetup.com/BarcelonaJS/events/219954987/" target="_blank" class="btn black">Join the <img src="./flag/blank.gif" class="flag flag-es" /> Barcelona event</a>
 
+          
+          
+          <h1>pre-JS Unconf - 24th April 2015</h1>
+          <h2>
+            <a href="">Hamburg, Germany</a>
+          </h2>
+
+          
+          
+          <h1>Scotland JS CodeRetreat - 9th May 2015</h1>
+          <h2>
+            <a href="http://scotlandjs.com/charity_tutorial/#coderetreat">Edinburgh, UK</a>
+          </h2>
         </div>
       </div>
     </div>
