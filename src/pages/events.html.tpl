@@ -29,7 +29,7 @@
           
           <h1>pre-JS Unconf - 24th April 2015</h1>
           <h2>
-            <a href="">Hamburg, Germany</a>
+            <a href="http://www.meetup.com/JavaScript-CodeRetreat/events/220247039/">Hamburg, Germany</a>
           </h2>
 
           
