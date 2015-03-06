@@ -36,15 +36,15 @@
         <a href="http://www.uxebu.com" target="_blank">
           <img src="img/sponsors/uxebu-logo.jpg" height="50" />
         </a>
-        <a href="http://www.kochan.de" target="_blank">
-          <img src="img/sponsors/kochan-partner.jpg" />
-        </a>
-        <!--<a href="http://www.westwing.de" target="_blank">-->
-          <!--<img src="img/sponsors/westwing.jpg" height="40" />-->
+        <!--<a href="http://www.kochan.de" target="_blank">-->
+          <!--<img src="img/sponsors/kochan-partner.jpg" />-->
         <!--</a>-->
-        <a href="http://www.prosiebensat1digital.de" target="_blank">
-          <img src="img/sponsors/prosiebensat1digital.png" height="40" />
+        <a href="http://www.westwing.de" target="_blank">
+          <img src="img/sponsors/westwing.jpg" height="40" />
         </a>
+        <!--<a href="http://www.prosiebensat1digital.de" target="_blank">-->
+          <!--<img src="img/sponsors/prosiebensat1digital.png" height="40" />-->
+        <!--</a>-->
         <!--<a href="http://www.thoughtworks.com/locations/berlin" target="_blank">-->
           <!--<img src="img/sponsors/thoughtworks-logo1.png" height="55" />-->
         <!--</a>-->
