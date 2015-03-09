@@ -188,7 +188,7 @@ h3 {
 
 /* ---------- Footer ---------- */
 
-footer {
+body > footer {
   background-color: #2d2e2c;
   color: #999;
 
@@ -196,53 +196,53 @@ footer {
   padding: 6em 1em 2em 1em;
 }
 
-footer h2 {
+body > footer h2 {
   font-family: monospace;
   font-size: large;
   color: white;
   margin-bottom: 2em;
 }
 
-footer a {
+body > footer a {
   display: block;
   color: #999;
   text-decoration: none;
   margin-bottom: 1em;
 }
-footer a:hover {
+body > footer a:hover {
   color: #999;
   text-decoration: underline;
 }
 
-footer .jscr p {
+body > footer .jscr p {
   margin-top: 3em;
 }
 
-footer .contact a {
+body > footer .contact a {
   background-repeat: no-repeat;
   padding-left: 3em;
 }
-footer .contact a.email {
+body > footer .contact a.email {
   background-image: url(../img/icon%20mail.png);
 }
-footer .contact a.facebook {
+body > footer .contact a.facebook {
   background-image: url(../img/icon%20facebook.png);
 }
-footer .contact a.flickr {
+body > footer .contact a.flickr {
   background-image: url(../img/icon%20flickr.png);
 }
-footer .contact a.twitter {
+body > footer .contact a.twitter {
   background-image: url(../img/icon%20twitter.png);
 }
-footer .contact a.meetup {
+body > footer .contact a.meetup {
   background-image: url(../img/icon%20meetup.png);
 }
 
-footer .imprint {
+body > footer .imprint {
   margin-top: 3em;
   text-align: center;
 }
-footer .imprint a {
+body > footer .imprint a {
   display: inline;
 }
 

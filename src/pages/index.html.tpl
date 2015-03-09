@@ -80,10 +80,14 @@
 
   <div class="section">
     <div class="container">
-      <div class="col-md-offset-2 col-md-8"> 
+      <div class="col-md-offset-2 col-md-8 quote-stack"> 
         <blockquote>
           <p>As a past attendee, this event has had a profound impact on my experience as a developer.</p>
           <footer>Francis</footer>
+        </blockquote>
+        <blockquote>
+          <p>Life is not the same after #tdd // thanks and looking forward to #jscr6</p>
+          <footer><a href="http://twitter.com/enrqx">Enrique</a></footer>
         </blockquote>
       </div>
     </div>
