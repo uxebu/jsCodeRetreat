@@ -12,19 +12,7 @@
     <div class="row">
       <div class="col-md-12">
         <div class="title">
-          <h1>pre-JS Unconf - 24th April 2015</h1>
-          <h2>
-            <a href="http://www.meetup.com/JavaScript-CodeRetreat/events/220247039/">Hamburg, Germany</a>
-          </h2>
-
-          
-          
-          <h1>Scotland JS CodeRetreat - 9th May 2015</h1>
-          <h2>
-            <a href="http://scotlandjs.com/charity_tutorial/#coderetreat">Edinburgh, UK</a>
-          </h2>
-          
-          <h1>6th edition - 6th June 2015</h1>
+          <h1>7th edition - 5th September 2015</h1>
           <h2>
             in Munich, 
             <a href="https://github.com/uxebu/jsCodeRetreat/tree/gh-pages#javascript-code-retreat">&lt;add your city&gt;</a>
@@ -33,7 +21,7 @@
           <br/>
           <br/>
 
-          <a href="http://www.meetup.com/JavaScript-CodeRetreat/events/221025726/" target="_blank" class="btn black">Join the <img src="./flag/blank.gif" class="flag flag-de" /> Munich event</a>
+          <a href="http://www.meetup.com/JavaScript-CodeRetreat/events/223394811/" target="_blank" class="btn black">Join the <img src="./flag/blank.gif" class="flag flag-de" /> Munich event</a>
           
           
         </div>
@@ -42,6 +30,30 @@
   </div>
 
   <div class="intro container content">
+    
+    <!--<h1>pre-JS Unconf - 24th April 2015</h1>-->
+    <!--<h2>-->
+      <!--<a href="http://www.meetup.com/JavaScript-CodeRetreat/events/220247039/">Hamburg, Germany</a>-->
+    <!--</h2>-->
+
+    <!-- -->
+    <!-- -->
+    <!--<h1>Scotland JS CodeRetreat - 9th May 2015</h1>-->
+    <!--<h2>-->
+      <!--<a href="http://scotlandjs.com/charity_tutorial/#coderetreat">Edinburgh, UK</a>-->
+    <!--</h2>-->
+    <!-- -->
+    <!-- -->
+    <!--<h1>6th edition - 6th June 2015</h1>-->
+    <!--<h2>-->
+      <!--in Munich, -->
+      <!--<a href="https://github.com/uxebu/jsCodeRetreat/tree/gh-pages#javascript-code-retreat">&lt;add your city&gt;</a>-->
+    <!--</h2>-->
+
+    <!--<br/>-->
+    <!--<br/>-->
+
+    <!--<a href="http://www.meetup.com/JavaScript-CodeRetreat/events/221025726/" target="_blank" class="btn black">Join the <img src="./flag/blank.gif" class="flag flag-de" /> Munich event</a>-->
     
     <div class="row">
       <div class="col-md-offset-2 col-md-8">
@@ -53,6 +65,34 @@
           we are taking part every time, every three months.
           <br>
           See below to find all the past events, and let's do a couple more ...
+        </p>
+      </div>
+    </div>
+    
+    <div class="row">
+      <div class="col-md-offset-2 col-md-8">
+        <h2>JavaScript CodeRetreat #6, 6th June 2015</h2>
+        <ul>
+          <li><img src="./flag/blank.gif" class="flag flag-de" /> Munich</li>
+          <li>Participants: 40</li>
+          <li>Location: <a href="http://prosiebensat1digital.de">ProSiebenSat.1 Digital</a></li>
+          <li><a href="http://www.meetup.com/JavaScript-CodeRetreat/events/221025726/">Meetup page</a></li>
+        </ul>
+        <p>
+        </p>
+      </div>
+    </div>
+    
+    <div class="row">
+      <div class="col-md-offset-2 col-md-8">
+        <h2>pre-JSUnconf JavaScript CodeRetreat, 24th April 2015</h2>
+        <ul>
+          <li><img src="./flag/blank.gif" class="flag flag-de" /> Hamburg, Germany</li>
+          <li>Participants: 40</li>
+          <li>Location: <a href="http://www.bauermedia.com/">Bauer Digital KG</a></li>
+          <li><a href="http://www.meetup.com/JavaScript-CodeRetreat/events/220247039/">Meetup page</a></li>
+        </ul>
+        <p>
         </p>
       </div>
     </div>

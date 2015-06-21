@@ -23,7 +23,7 @@
         <ul class="nav navbar-nav">
           <li class="homepage"><a href="index.html">Homepage</a></li>
           <li class="howitworks"><a href="howitworks.html">How does it work?</a></li>
-          <li class="events"><a href="events.html">Events <span class="notification-bubble">3</span></a></li>
+          <li class="events"><a href="events.html">Events <span class="notification-bubble">1</span></a></li>
           <li><a href="sponsoring.html" target="_blank">Sponsoring</a></li>
           <li class="contact"><a href="contact.html">Contact</a></li>
           <li><a href="https://github.com/uxebu/jsCodeRetreat/tree/gh-pages">Source</a></li>

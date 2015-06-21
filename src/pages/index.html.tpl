@@ -9,7 +9,7 @@
             <h1><span>JavaScript</span> CodeRetreat</h1>
             <h2>Practice. Share. Global.</h2>
             <a href="events.html" class="btn yellow">
-              6th edition, 6th June 2015, global
+              7th edition, 5th September 2015, global
             </a>
             <!--<h2>-->
               <!--<a href="http://www.meetup.com/JavaScript-CodeRetreat/events/209200652/" target="_blank">Join Munich Event <img style="opacity: .5" class="flag flag-de" src="flag/blank.gif" alt="Germany"/> (via meetup.com)</a>-->
@@ -39,9 +39,9 @@
         <!--<a href="http://www.kochan.de" target="_blank">-->
           <!--<img src="img/sponsors/kochan-partner.jpg" />-->
         <!--</a>-->
-        <a href="http://www.westwing.de" target="_blank">
-          <img src="img/sponsors/westwing.jpg" height="40" />
-        </a>
+        <!--<a href="http://www.westwing.de" target="_blank">-->
+          <!--<img src="img/sponsors/westwing.jpg" height="40" />-->
+        <!--</a>-->
         <!--<a href="http://www.prosiebensat1digital.de" target="_blank">-->
           <!--<img src="img/sponsors/prosiebensat1digital.png" height="40" />-->
         <!--</a>-->
@@ -82,7 +82,11 @@
     <div class="container">
       <div class="col-md-offset-2 col-md-8 quote-stack"> 
         <blockquote>
-          <p>As a past attendee, this event has had a profound impact on my experience as a developer.</p>
+          <p>Went to a js code retreat in April with @wolframkriesing - noticed a marked <strong>improvement since</strong>!</p>
+          <footer><a href="https://twitter.com/bruderstein/status/612260326357233664">Dave Brotherstone</a></footer>
+        </blockquote>
+        <blockquote>
+          <p>As a past attendee, this event has had a <strong>profound impact</strong> on my experience as a developer.</p>
           <footer>Francis</footer>
         </blockquote>
         <blockquote>
