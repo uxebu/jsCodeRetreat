@@ -26,8 +26,8 @@
         <h2>uxebu GmbH</h2>
           <br/>
           <div class="location">
-            Fraunhofer Str. 31e<br/>
-            86167 Augsburg (near Munich)<br/>
+            Goethestr. 28<br/>
+            86161 Augsburg (near Munich)<br/>
             Germany<br/>
           </div>
           <a href="mailto:contact@uxebu.com" class="email">contact@uxebu.com</a>
