@@ -12,7 +12,7 @@
     <div class="row">
       <div class="col-md-12">
         <div class="title">
-          <h1>7th edition - 5th September 2015</h1>
+          <h1>8th edition - 5th December 2015</h1>
           <h2>
             in Munich, 
             <a href="https://github.com/uxebu/jsCodeRetreat/tree/gh-pages#javascript-code-retreat">&lt;add your city&gt;</a>
