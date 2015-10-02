@@ -117,7 +117,7 @@
       <div class="col-md-offset-2 col-md-4">
         <h3>Why only JS?</h3>
         <p>
-          The JavaScript CodeRetreat is more focused CodeRetreat.
+          The JavaScript CodeRetreat is a more focused CodeRetreat.
           We try to focus even more on the craftsmanship, even more
           on one language in order to dive even deeper and find out
           more about how to become better. Never done it before?
