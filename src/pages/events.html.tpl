@@ -21,7 +21,7 @@
           <br/>
           <br/>
 
-          <a href="http://www.meetup.com/JavaScript-CodeRetreat/events/223394811/" target="_blank" class="btn black">Join the <img src="./flag/blank.gif" class="flag flag-de" /> Munich event</a>
+          <a href="http://www.meetup.com/de/JavaScript-CodeRetreat/events/225825955/" target="_blank" class="btn black">Join the <img src="./flag/blank.gif" class="flag flag-de" /> Munich event</a>
           
           
         </div>
