@@ -11,15 +11,11 @@
             <a href="events.html" class="btn yellow">
               8th edition, 5th December 2015, global
             </a>
-            <!--<h2>-->
-              <!--<a href="http://www.meetup.com/JavaScript-CodeRetreat/events/209200652/" target="_blank">Join Munich Event <img style="opacity: .5" class="flag flag-de" src="flag/blank.gif" alt="Germany"/> (via meetup.com)</a>-->
-            <!--</h2>-->
-
-
-            <!--<h1 style="margin-top: 2em;">Special Event</h1>-->
-            <!--<a href="http://www.meetup.com/JavaScript-CodeRetreat/events/188846942/" class="btn yellow">-->
-              <!--pre-<img src="img/jsconf.png" style="position:relative; top:-4px;">Conf, Berlin, 12th September-->
-            <!--</a>-->
+            
+            <h1 style="margin-top: 2em;">Hamburg Edition #2</h1>
+            <a href="http://www.meetup.com/de/JavaScript-CodeRetreat/events/226560992/" class="btn yellow">
+              Hamburg, 12th December
+            </a>
 
           </div>
           <div class="code hidden-xs">
