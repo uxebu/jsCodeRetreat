@@ -13,7 +13,7 @@
             </a>
             
             <h1 style="margin-top: 2em;">Hamburg Edition #2</h1>
-            <a href="http://www.meetup.com/de/JavaScript-CodeRetreat/events/226560992/" class="btn yellow">
+            <a href="https://ti.to/jscoderetreat/jscoderetreat-hamburg-dec-2015" class="btn yellow">
               Hamburg, 12th December
             </a>
 
