@@ -25,7 +25,7 @@
           <h1>Hamburg - 12th December 2015</h1>
           <br/>
 
-          <a href="http://www.meetup.com/de/JavaScript-CodeRetreat/events/226560992/" target="_blank" class="btn black">Join the <img src="./flag/blank.gif" class="flag flag-de" /> Hamburg event</a>
+          <a href="https://ti.to/jscoderetreat/jscoderetreat-hamburg-dec-2015" target="_blank" class="btn black">Join the <img src="./flag/blank.gif" class="flag flag-de" /> Hamburg event</a>
           
           <br/>
           <br/>
