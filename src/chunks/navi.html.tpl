@@ -26,6 +26,7 @@
           <li class="events"><a href="events.html">Events <span class="notification-bubble">2</span></a></li>
           <li class="contact"><a href="contact.html">Contact</a></li>
           <li><a href="https://github.com/uxebu/jsCodeRetreat/tree/gh-pages">Source</a></li>
+          <li class="downloads"><a href="downloads.html">Downloads</a></li>
         </ul>
       </div><!--/.navbar-collapse -->
     </div>
