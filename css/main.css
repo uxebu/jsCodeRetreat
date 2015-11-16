@@ -93,6 +93,7 @@ h3 {
     height: 26px;
 }
 
+#downloads li.downloads a,
 #homepage li.homepage a,
 #howitworks li.howitworks a,
 #events li.events a,

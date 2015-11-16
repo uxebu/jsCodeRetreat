@@ -20,3 +20,12 @@
   font-style: italic;
   font-weight: bold;
 }
+
+#downloads .float-around {
+  float: left;
+  margin-right: 1em;
+}
+
+#downloads .download {
+  margin-top: 4em;
+}
