@@ -6,6 +6,7 @@ var path = require('path');
   'index',
   'howitworks',
   'contact',
+  'downloads',
   'events'
 ].forEach(function(fileName) {
   var destFileName = path.join(__dirname, '..', fileName + '.html');
