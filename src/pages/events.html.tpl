@@ -14,13 +14,14 @@
         <div class="title">
           <h1>8th edition - 5th December 2015</h1>
           <h2>
-            in Munich, 
+            in Munich, Augsburg,
             <a href="https://github.com/uxebu/jsCodeRetreat/tree/gh-pages#javascript-code-retreat">&lt;add your city&gt;</a>
           </h2>
 
           <br/>
 
-          <a href="http://www.meetup.com/de/JavaScript-CodeRetreat/events/225825955/" target="_blank" class="btn black">Join the <img src="./flag/blank.gif" class="flag flag-de" /> Munich event</a>
+          <a href="http://www.meetup.com/de/JavaScript-CodeRetreat/events/225825955/" target="_blank" class="btn black">Join the <img src="./flag/blank.gif" class="flag flag-de" /> Munich event</a><br/><br/>
+          <a href="http://www.meetup.com/de/JavaScript-CodeRetreat/events/226833043/" target="_blank" class="btn black">Join the <img src="./flag/blank.gif" class="flag flag-de" /> Augsburg event</a>
           
           <h1>Hamburg - 12th December 2015</h1>
           <br/>
