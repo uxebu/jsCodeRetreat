@@ -55,7 +55,7 @@
     <div class="imprint row">
       <section class="col-md-12">
         Brought to you by <a href="http://uxebu.com">uxebu</a> with <img src="img/icon%20heart.png" />
-        Copyright &copy; 2014, uxebu. Designed by <a href="http://marcosantonocito.com">Marco Santonocito</a>.
+        Copyright &copy; {{ now|date('Y') }}, uxebu. Designed by <a href="http://marcosantonocito.com">Marco Santonocito</a>.
       </section>
     </div>
   </footer>
