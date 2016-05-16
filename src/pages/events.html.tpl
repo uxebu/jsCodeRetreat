@@ -14,7 +14,7 @@
         <div class="title">
           <h1>9th edition - 11th June 2016</h1>
           <h2>
-            in Munich, 
+            in Munich, Augsburg,
             <a href="https://github.com/uxebu/jsCodeRetreat/tree/gh-pages#javascript-code-retreat">&lt;add your city&gt;</a>
           </h2>
 
