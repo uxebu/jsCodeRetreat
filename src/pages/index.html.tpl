@@ -24,9 +24,10 @@
   <div class="sponsors">
     <div class="container">
       <div class="col-md-12" style="text-align: center;">
-        <a href="http://www.uxebu.com" target="_blank">
-          <img src="img/sponsors/uxebu-logo.jpg" height="50" />
-        </a>
+        <a href="http://twitter.com/jsCodeRetreat">Want to sponsor? Ping us.</a>
+        <!--<a href="http://www.uxebu.com" target="_blank">-->
+          <!--<img src="img/sponsors/uxebu-logo.jpg" height="50" />-->
+        <!--</a>-->
         <!--<a href="http://www.kochan.de" target="_blank">-->
           <!--<img src="img/sponsors/kochan-partner.jpg" />-->
         <!--</a>-->
