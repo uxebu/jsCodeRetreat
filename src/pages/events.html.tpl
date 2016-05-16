@@ -12,7 +12,7 @@
     <div class="row">
       <div class="col-md-12">
         <div class="title">
-          <h1>8th edition - 5th December 2015</h1>
+          <h1>9th edition - 11th June 2016</h1>
           <h2>
             in Munich, 
             <a href="https://github.com/uxebu/jsCodeRetreat/tree/gh-pages#javascript-code-retreat">&lt;add your city&gt;</a>
@@ -20,14 +20,8 @@
 
           <br/>
 
-          <a href="http://www.meetup.com/de/JavaScript-CodeRetreat/events/225825955/" target="_blank" class="btn black">Join the <img src="./flag/blank.gif" class="flag flag-de" /> Munich event</a>
+          <a href="http://www.meetup.com/de-DE/JavaScript-CodeRetreat/events/231163929/" target="_blank" class="btn black">Join the <img src="./flag/blank.gif" class="flag flag-de" /> Munich event</a>
           
-          <h1>Hamburg - 12th December 2015</h1>
-          <br/>
-
-          <a href="https://ti.to/jscoderetreat/jscoderetreat-hamburg-dec-2015" target="_blank" class="btn black">Join the <img src="./flag/blank.gif" class="flag flag-de" /> Hamburg event</a>
-          
-          <br/>
           <br/>
           
         </div>
@@ -71,6 +65,20 @@
           we are taking part every time, every three months.
           <br>
           See below to find all the past events, and let's do a couple more ...
+        </p>
+      </div>
+    </div>
+    
+    <div class="row">
+      <div class="col-md-offset-2 col-md-8">
+        <h2>JavaScript CodeRetreat #8, 5th September 2015</h2>
+        <ul>
+          <li><img src="./flag/blank.gif" class="flag flag-de" /> Munich</li>
+          <li>Participants: 10</li>
+          <li>Location: <a href="http://valtech.de/">Valtech</a></li>
+          <li><a href="http://www.meetup.com/de-DE/JavaScript-CodeRetreat/events/225825955/">Meetup page</a></li>
+        </ul>
+        <p>
         </p>
       </div>
     </div>

@@ -9,14 +9,9 @@
             <h1><span>JavaScript</span> CodeRetreat</h1>
             <h2>Practice. Share. Global.</h2>
             <a href="events.html" class="btn yellow">
-              8th edition, 5th December 2015, global
+              9th edition, 11th June 2016, global
             </a>
             
-            <h1 style="margin-top: 2em;">Hamburg Edition #2</h1>
-            <a href="https://ti.to/jscoderetreat/jscoderetreat-hamburg-dec-2015" class="btn yellow">
-              Hamburg, 12th December
-            </a>
-
           </div>
           <div class="code hidden-xs">
             <img src="img/code.png" alt="">
