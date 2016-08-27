@@ -9,7 +9,9 @@
             <br />
             <br />
             <span style="color: #F7DB00; font-family: monospace">We are happy to announce the sister-event</span>
-            <h1 style="margin-top: 0;"><span>JS</span>CraftCamp</h1>
+            <a href="http://jscraftcamp.org">
+              <h1 style="margin-top: 0;"><span>JS</span>CraftCamp</h1>
+            </a>
             <br />
             <br />
             <a href="http://jscraftcamp.org" style="display: block;">
