@@ -17,7 +17,8 @@
         <ul class="nav navbar-nav">
           <li class="homepage"><a href="index.html">Homepage</a></li>
           <li class="howitworks"><a href="howitworks.html">How does it work?</a></li>
-          <li class="events"><a href="events.html">Events <span class="notification-bubble">1</span></a></li>
+          <li class="events"><a href="events.html">Events</a></li>
+          <!--<li class="events"><a href="events.html">Events <span class="notification-bubble">1</span></a></li>-->
           <li><a href="https://github.com/uxebu/jsCodeRetreat/tree/gh-pages">Source</a></li>
           <li class="downloads"><a href="downloads.html">Downloads</a></li>
         </ul>
