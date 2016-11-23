@@ -12,7 +12,7 @@
     <div class="row">
       <div class="col-md-12">
         <div class="title">
-          <h1>9th edition - 11th June 2016</h1>
+          <h1>10th edition - 17th December 2016</h1>
           <h2>
             in Munich,
             <a href="https://github.com/uxebu/jsCodeRetreat/tree/gh-pages#javascript-code-retreat">&lt;add your city&gt;</a>
@@ -20,7 +20,7 @@
 
           <br/>
 
-          <a href="http://www.meetup.com/de-DE/JavaScript-CodeRetreat/events/231163929/" target="_blank" class="btn black">Join the <img src="./flag/blank.gif" class="flag flag-de" /> Munich event</a>
+          <a href="https://www.meetup.com/de-DE/JavaScript-CodeRetreat/events/235643609/" target="_blank" class="btn black">Join the <img src="./flag/blank.gif" class="flag flag-de" /> Munich event</a>
           
           <br/>
           
@@ -71,6 +71,34 @@
     
     <div class="row">
       <div class="col-md-offset-2 col-md-8">
+        <h2>JavaScript CodeRetreat #9, 11th June 2016</h2>
+        <ul>
+          <li><img src="./flag/blank.gif" class="flag flag-de" /> Munich</li>
+          <li>Participants: 30</li>
+          <li>Location: <a href="http://www.virtual-identity.com/">Virtual Identity</a></li>
+          <li><a href="https://www.meetup.com/de-DE/JavaScript-CodeRetreat/events/231163929/">Meetup page</a></li>
+        </ul>
+        <p>
+        </p>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-offset-2 col-md-8">
+        <h2>JSCraftCamp #1, 8+9th Oct 2016</h2>
+        <ul>
+          <li><img src="./flag/blank.gif" class="flag flag-de" /> Munich</li>
+          <li>Participants: 30</li>
+          <li>Location: <a href="http://www.virtual-identity.com/">Virtual Identity</a></li>
+          <li><a href="http://jscraftcamp.org/">web site</a></li>
+        </ul>
+        <p>
+        </p>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-offset-2 col-md-8">
         <h2>JavaScript CodeRetreat #8, 5th September 2015</h2>
         <ul>
           <li><img src="./flag/blank.gif" class="flag flag-de" /> Munich</li>
@@ -82,7 +110,7 @@
         </p>
       </div>
     </div>
-    
+
     <div class="row">
       <div class="col-md-offset-2 col-md-8">
         <h2>JavaScript CodeRetreat #7, 5th September 2015</h2>
