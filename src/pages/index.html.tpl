@@ -8,33 +8,6 @@
           <div class="title">
             <br />
             <br />
-            <span style="color: #F7DB00; font-family: monospace">We are happy to announce the sister-event</span>
-            <a href="http://jscraftcamp.org">
-              <h1 style="margin-top: 0;"><span>JS</span>CraftCamp</h1>
-            </a>
-            <br />
-            <br />
-            <a href="http://jscraftcamp.org" style="display: block;">
-              <img style="background: rgba(255,255,255,0.4); padding: 1em;" width="300" src="img/jscc16-logo.png" />
-            </a>
-            <br />
-            <br />
-            <div style="color: #F7DB00; font-family: monospace">
-              8th+9th October 2016, Munich
-              </div>
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-
-
-
             <h1><span>JavaScript</span> CodeRetreat</h1>
             <h2>Practice. Share. Global.</h2>
             <a href="events.html" class="btn yellow">
