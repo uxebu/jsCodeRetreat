@@ -11,7 +11,7 @@
             <h1><span>JavaScript</span> CodeRetreat</h1>
             <h2>Practice. Share. Global.</h2>
             <a href="events.html" class="btn yellow">
-              10th edition, to be announced, global
+              10th edition, 17th December 2016, global
             </a>
             
           </div>
