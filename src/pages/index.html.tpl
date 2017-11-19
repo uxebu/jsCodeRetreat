@@ -13,7 +13,10 @@
             <a href="events.html" class="btn yellow">
               12th edition, 25th November 2017, global
             </a>
-            
+
+            <br /><br /><br />
+            <h2>This Time - Tetris Edition</h2>
+            <img src="img/jscr-tetris-logo.png" alt="" width="150px">
           </div>
           <div class="code hidden-xs">
             <img src="img/code.png" alt="">
