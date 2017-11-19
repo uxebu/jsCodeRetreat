@@ -58,7 +58,7 @@
     <div class="row">
       <div class="col-md-offset-2 col-md-8">
         <p class="intro">
-          JavaScript CodeRetreat takes place every three months.
+          JavaScript CodeRetreat takes place around every three months.
           It got kicked off in Munich by uxebu and is a free event, welcome for any participant 
           and organizer to join.
           You can make it happen in as many cities as you want. In Munich, Germany 
