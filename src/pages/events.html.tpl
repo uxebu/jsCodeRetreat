@@ -71,6 +71,34 @@
     
     <div class="row">
       <div class="col-md-offset-2 col-md-8">
+        <h2>JavaScript CodeRetreat #11, 12th August 2017</h2>
+        <ul>
+          <li><img src="./flag/blank.gif" class="flag flag-de" /> Munich</li>
+          <li>Participants: 25</li>
+          <li>Location: <a href="https://codecentric.com">CodeCentric</a></li>
+          <li><a href="https://www.meetup.com/JavaScript-CodeRetreat/events/241208489/">Meetup page</a></li>
+        </ul>
+        <p>
+        </p>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-offset-2 col-md-8">
+        <h2>JavaScript CodeRetreat #10, 17th December 2016</h2>
+        <ul>
+          <li><img src="./flag/blank.gif" class="flag flag-de" /> Munich</li>
+          <li>Participants: 20</li>
+          <li>Location: <a href="https://github.com/holidaycheck/jobs">HolidayCheck</a></li>
+          <li><a href="https://www.meetup.com/JavaScript-CodeRetreat/events/235643609/">Meetup page</a></li>
+        </ul>
+        <p>
+        </p>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-offset-2 col-md-8">
         <h2>JavaScript CodeRetreat #9, 11th June 2016</h2>
         <ul>
           <li><img src="./flag/blank.gif" class="flag flag-de" /> Munich</li>
