@@ -12,7 +12,7 @@
     <div class="row">
       <div class="col-md-12">
         <div class="title">
-          <h1>10th edition - 17th December 2016</h1>
+          <h1>12th edition - 25th November 2016</h1>
           <h2>
             in Munich,
             <a href="https://github.com/uxebu/jsCodeRetreat/tree/gh-pages#javascript-code-retreat">&lt;add your city&gt;</a>
@@ -20,7 +20,7 @@
 
           <br/>
 
-          <a href="https://www.meetup.com/de-DE/JavaScript-CodeRetreat/events/235643609/" target="_blank" class="btn black">Join the <img src="./flag/blank.gif" class="flag flag-de" /> Munich event</a>
+          <a href="https://www.meetup.com/JavaScript-CodeRetreat/events/244968981/" target="_blank" class="btn black">Join the <img src="./flag/blank.gif" class="flag flag-de" /> Munich event</a>
           
           <br/>
           
