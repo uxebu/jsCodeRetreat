@@ -11,7 +11,7 @@
             <h1><span>JavaScript</span> CodeRetreat</h1>
             <h2>Practice. Share. Global.</h2>
             <a href="events.html" class="btn yellow">
-              12th edition, 25th November 2017, global
+              13th edition, 12th May 2018, global
             </a>
 
             <br /><br /><br />
