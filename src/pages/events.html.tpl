@@ -71,6 +71,20 @@
     
     <div class="row">
       <div class="col-md-offset-2 col-md-8">
+        <h2>JavaScript CodeRetreat #12, 25th November 2017</h2>
+        <ul>
+          <li><img src="./flag/blank.gif" class="flag flag-de" /> Munich</li>
+          <li>Participants: 25</li>
+          <li>Location: <a href="https://futurice.com">Futurice</a></li>
+          <li><a href="https://www.meetup.com/JavaScript-CodeRetreat/events/249843171/">Meetup page</a></li>
+        </ul>
+        <p>
+        </p>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-offset-2 col-md-8">
         <h2>JavaScript CodeRetreat #11, 12th August 2017</h2>
         <ul>
           <li><img src="./flag/blank.gif" class="flag flag-de" /> Munich</li>
